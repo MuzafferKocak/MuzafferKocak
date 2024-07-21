@@ -1,7 +1,5 @@
 
 
-
-
 <h1 align="center">Hi 👋, I'm Muzaffer Kocak</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
