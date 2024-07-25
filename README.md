@@ -134,7 +134,7 @@
     <br> FireBase
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
+    <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="jquery logo"  />
     <br> JQuery
     </td>
     <td align="center" width="86">
