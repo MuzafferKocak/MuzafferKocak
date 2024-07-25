@@ -150,8 +150,8 @@
     <br> NextJs
     </td>  
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="mongodb logo"  />
-    <br> MongoDB
+    <img src="https://skillicons.dev/icons?i=styledcomponents"  width="65" height="50" alt="mongodb logo"  />
+    <br> Styled Components
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
@@ -175,11 +175,11 @@
 <div  align="center">
 <br/>
      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirTarti&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferKocak&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
 
 
 <!--
-**KadirTarti/KadirTarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuzafferKocak/MuzafferKocak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
