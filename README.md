@@ -130,8 +130,8 @@
     <br> Stylet Components
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
-    <br> FireBase
+    <img src="https://skillicons.dev/icons?i=nextjs"width="65" height="50" alt="firebase logo"  />
+    <br> NextJs
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="jquery logo"  />
@@ -146,8 +146,8 @@
     <br> GitHub
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=nextjs"  width="65" height="50" alt="postgresql logo"  />
-    <br> NextJs
+    <img src="https://skillicons.dev/icons?i=firebase"  width="65" height="50" alt="postgresql logo"  />
+    <br> FireBase
     </td>  
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="mongodb logo"  />
