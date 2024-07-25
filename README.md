@@ -126,8 +126,8 @@
  </tr>
  <tr>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="vite logo"  />
-    <br> Vite
+    <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="50" alt="vite logo"  />
+    <br> Stylet Components
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
@@ -150,8 +150,8 @@
     <br> NextJs
     </td>  
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=styledcomponents"  width="65" height="50" alt="mongodb logo"  />
-    <br> Styled Components
+    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="mongodb logo"  />
+    <br> Vite
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
