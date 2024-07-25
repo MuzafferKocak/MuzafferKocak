@@ -146,11 +146,11 @@
     <br> GitHub
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="postgresql logo"  />
     <br> PostgreSQL
     </td>  
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
+    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="mongodb logo"  />
     <br> MongoDB
     </td>
     <td align="center" width="86">
@@ -158,7 +158,7 @@
     <br> PostMan
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="figma logo"  />
     <br> Figma
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
@@ -169,3 +169,26 @@
 </table>
 <br>
 </div>
+<br>
+
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<br/>
+     
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirTarti&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
+
+
+<!--
+**KadirTarti/KadirTarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
