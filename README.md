@@ -1,19 +1,19 @@
 
 
 <br></br>
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI+🙋‍♂️;******+I'm+a+Web-Developer!+🖥️+******;I+love+Frontend+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..⏲️;..+✅+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+❓+............................;....+📫+please+contact+me!+;)](https://git.io/typing-svg)
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=7fff00&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Abdulkadir+TARTILACI+🙋‍♂️;******+I'm+a+Web-Developer!+🖥️+******;I+love+Frontend+Development;If+you+haven't+reviewed+my+projects+yet..⏲️;..+✅+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+❓+............................;....+📫+please+contact+me!+;)](https://git.io/typing-svg)
 <br></br>
-<font color="pink"> 💻 Hi, i am Kadir!	 </font> 
+<font color="pink"> 💻 Hi, i am Muzaffer!	 </font> 
 </br>
-<font color="pink"> :fire: I'm a Fullstack Developer (MERN Stack) ⚛️</font>
+<font color="pink"> :fire: I'm a Frontend Developer ⚛️</font>
 <br></br>
 <!--
-![](https://komarev.com/ghpvc/?username=KadirTarti&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MuzafferKocak&color=green&style=for-the-badge)
 -->
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-tartilaci/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:tartilaci@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-kocak/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mkojak75@gmail.com)
 <!--
 #### :mailbox_with_mail: Connect with me:
 
