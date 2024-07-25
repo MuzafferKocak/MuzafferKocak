@@ -135,7 +135,7 @@
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="jquery logo"  />
-    <br> JQuery
+    <br> Cypress
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
@@ -146,8 +146,8 @@
     <br> GitHub
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="postgresql logo"  />
-    <br> PostgreSQL
+    <img src="https://skillicons.dev/icons?i=nextjs"  width="65" height="50" alt="postgresql logo"  />
+    <br> NextJs
     </td>  
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="mongodb logo"  />
@@ -158,8 +158,8 @@
     <br> PostMan
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i="  width="65" height="50" alt="figma logo"  />
-    <br> Figma
+    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="figma logo"  />
+    <br> Python
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
     <br> NodeJs
