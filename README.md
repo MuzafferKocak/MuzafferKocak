@@ -54,7 +54,7 @@
     <br> JavaScript
     </td>
    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=react" width="75" height="50" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
     <br> React
     </td>
     <td align="center" width="86">
@@ -97,12 +97,12 @@
     <br> Cypress
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
-    <br> Git
-    </td>
-    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
     <br> GitHub
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
+    <br> Git
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=firebase"  width="65" height="50" alt="postgresql logo"  />
