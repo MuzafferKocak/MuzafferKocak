@@ -54,7 +54,7 @@
     <br> JavaScript
     </td>
    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=react" width="75" height="50" alt="react logo"  />
     <br> React
     </td>
     <td align="center" width="86">
@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=nextjs"width="65" height="50" alt="firebase logo"  />
-    <br> Next Js
+    <br> NextJs
     </td>
     </td>
     <td align="center" width="86">
