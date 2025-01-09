@@ -5,7 +5,7 @@
 <br></br>
 <font color="pink"> 💻 Hi, i am Muzaffer!	 </font> 
 </br>
-<font color="pink"> :fire: I'm a Frontend Developer ⚛️</font>
+<font color="pink"> :fire: I'm a Full Stack Developer ⚛️</font>
 <br></br>
 <!--
 ![](https://komarev.com/ghpvc/?username=MuzafferKocak&color=green&style=for-the-badge)
@@ -91,6 +91,14 @@
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
     <br> Bootstrap
+    </td>
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <br> PostgreSQL
+    </td>  
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
+    <br> MongoDB
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="jquery logo"  />
