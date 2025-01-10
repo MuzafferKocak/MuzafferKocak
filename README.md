@@ -12,7 +12,7 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-kocak/) 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mkojak75@gmail.com)
-![XING](https://img.shields.io/badge/xing-%23006567.svg?logo=xing&logoColor=white)(https://www.xing.com/profile/Muzaffer_Kocak049524)
+![XING: VPA(https://img.shields.io/badge/xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/Muzaffer_Kocak049524)
 
 
 
