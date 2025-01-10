@@ -131,12 +131,14 @@
 
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
-<br></br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muzafferkocak&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferkocak" /> </p>
-<br></br>
+
 
      
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferKocak&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
+
+<br></br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muzafferkocak&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferkocak" /> </p>
+<br></br>
 
 
 <!--
