@@ -129,16 +129,16 @@
     <br> FireBase
     </td>  
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="vite logo"  />
-    <br> Vite
+    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="python logo"  />
+    <br> Python
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
     <br> PostMan
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="python logo"  />
-    <br> Python
+    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="vite logo"  />
+    <br> Vite
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
     <br> NodeJs
