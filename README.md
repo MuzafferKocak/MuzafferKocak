@@ -66,20 +66,20 @@
     <br> Redux
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=nextjs"width="65" height="50" alt="firebase logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs"width="65" height="50" alt="nextjs logo"  />
     <br> NextJs
     </td>
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="bootstrap logo"  />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="tailwind logo"  />
     <br> Tailwind
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="bootstrap logo"  />
+    <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="mui logo"  />
     <br> MUi
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
+    <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="sass logo"  />
     <br> SASS
     </td>
   <td align="center" width="86">
@@ -95,20 +95,25 @@
  <tr>
 
  
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
-    <br> PostgreSQL
-    </td>
+    
    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
     <br> PostgreSQL
-    </td>  
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=express"  width="65" height="50" alt="expressJs logo"  />
+    <br> ExpressJs
+    </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
     <br> MongoDB
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="jquery logo"  />
+    <img src="https://skillicons.dev/icons?i=docker"  width="65" height="50" alt="docker logo"  />
+    <br> Docker
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="cypress logo"  />
     <br> Cypress
     </td>
     <td align="center" width="86">
@@ -120,11 +125,11 @@
     <br> Git
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=firebase"  width="65" height="50" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i=firebase"  width="65" height="50" alt="firebase logo"  />
     <br> FireBase
     </td>  
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="mongodb logo"  />
+    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="vite logo"  />
     <br> Vite
     </td>
     <td align="center" width="86">
@@ -132,7 +137,7 @@
     <br> PostMan
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="python logo"  />
     <br> Python
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
