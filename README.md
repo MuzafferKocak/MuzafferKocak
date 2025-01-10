@@ -82,15 +82,22 @@
     <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
     <br> SASS
     </td>
- </tr>
- <tr>
-    <td align="center" width="86">
+  <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="50" alt="vite logo"  />
     <br> Styled Components
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
     <br> Bootstrap
+    </td>
+ </tr>
+  
+ <tr>
+
+ 
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <br> PostgreSQL
     </td>
    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
