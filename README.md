@@ -7,18 +7,11 @@
 </br>
 <font color="pink"> :fire: I'm a Full Stack Developer (MERN Stack) ⚛️</font>
 <br></br>
-<!--
-![](https://komarev.com/ghpvc/?username=MuzafferKocak&color=green&style=for-the-badge)
--->
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-kocak/)
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-kocak/) 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mkojak75@gmail.com)
-<!--
-#### :mailbox_with_mail: Connect with me:
-
-
 
 
 
