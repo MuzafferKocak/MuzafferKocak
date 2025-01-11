@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-kocak/) 
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?logo=xing&logoColor=white)](https://www.xing.com/profile/Muzaffer_Kocak049524)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mkojak75@gmail.com)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133396ba4c5ed6c7a)
+<!--[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0133396ba4c5ed6c7a)-->
 
 
 
